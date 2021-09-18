@@ -1,0 +1,15 @@
+{
+  "name": "form-inputs-react",
+  "version": "1.0.0",
+  "description": "reusable form input components",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "styled-components": "^5.3.1"
+  }
+}
